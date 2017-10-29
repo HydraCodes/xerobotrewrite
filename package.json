@@ -1,0 +1,23 @@
+{
+  "name": "xerobotrewrite",
+  "version": "1.0.0",
+  "description": "A sick bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HydraCodes/xerobotrewrite.git"
+  },
+  "author": "HydraCodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HydraCodes/xerobotrewrite/issues"
+  },
+  "homepage": "https://github.com/HydraCodes/xerobotrewrite#readme"
+}
